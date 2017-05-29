@@ -1,0 +1,21 @@
+day 1 content:-
+1.what is programming language ?
+2.history of progamming languages?
+3.types of programming languages?
+4.high level progamming languages vs object oriented ?
+5.what is java?
+6.history of java?
+7.current version of java?
+8.java editions and types of softwares.
+9.live projects of java.
+10.why java is considered as powerfull language?
+11.introduction to jdk,jvm and jre
+12.jdk installation
+13.jre installation
+14.enviroment variables.
+15.steps to write java program
+
+assigment 1 : 
+1.disadvantages of java programming language.
+2.current trending techonology of IT sector(read basic introduction)
+3.contribution of java in current market.

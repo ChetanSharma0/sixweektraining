@@ -1,0 +1,9 @@
+lecture schdule:-
+15 min prev lec discussion
+40 min topic discussion(theory explanation+code)
+5 min break
+60 min code review+practical session+doubt session
+
+
+https://github.com/chetansharma0
+

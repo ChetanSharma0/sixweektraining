@@ -1,0 +1,8 @@
+list of projects :
+1)real time banking system with authentication and authorization(client+server)
+2)cutomized encryption alogithms,send encypted data over a network and generate reports.
+3)lan based discussion forum.
+4)auto disease detection
+5)system robot (dynamic file generations)
+6)erp system for university.
+7)travelller guide
