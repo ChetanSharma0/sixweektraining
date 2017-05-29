@@ -1,0 +1,19 @@
+day 2 content:-
+1.intoduction to package , class and method
+2.detail introduction to hello world program
+3.compilation and running java program
+4.data types
+6.basic introduction to string class
+5.input from user
+6.simple operations like add and delete.
+
+assignment 2: write a program which takes the input from 1 bank users
+input fields : 
+user name(string)
+user mother name(string)
+user father name(string)
+user mob no(short)
+user new_ballance(double)
+user prev_balance
+add new_balance+prev_balance(float)
+ and print on console.
