@@ -1,0 +1,22 @@
+day 3 
+1.operators
+
+2.types of operators
+->Incr/Deccr Operator
+->Arithmetic Operator
+->Realtional Operator
+->Bitwise Operator
+->Short Circuit Operator
+->Equality Operator
+->Assignment Operator
+->conditional Operator
+->Instance of
+
+3.operator precedence
+4.introduction to flow control
+5.if,if-else
+6.switch
+
+assignment 3:program to take input from user(String)
+1)perform encryption
+2)perform decryption
