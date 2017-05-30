@@ -13,8 +13,11 @@ day 3
 ->Instance of
 
 3.operator precedence
+
 4.introduction to flow control
+
 5.if,if-else
+
 6.switch
 
 assignment 3:program to take input from user(String)
