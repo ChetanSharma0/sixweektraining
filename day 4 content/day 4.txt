@@ -1,0 +1,10 @@
+day 4
+1.itreative statements
+2.tranfer    statements
+3.parameter pass between two methods (2 diif classes)
+4.introduction to arrays
+5.array declaration
+6.one dimesional array
+
+assignment 4 write a program to pass an array 
+betwwen two methods
