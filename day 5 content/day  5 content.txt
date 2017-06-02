@@ -1,0 +1,21 @@
+day 5  content
+1)30 min doubt session
+2)mutidimesional array
+//3)annonyoms array
+4)advantages abd dis advanatages of array
+5)intoduction to var arg methods
+6)array vs var arg methods
+
+
+assignment : write a program which takes input from user
+
+-> username
+-> password
+
+validate if correct then display following details;
+
+then input prod_id from user and display its correspond porduct
+1)String product_name[index]
+2)String product_id[index]
+3)String product_mfg_date[index]
+4)String product_expr_date[index]
