@@ -1,0 +1,40 @@
+day 6 content
+1)mutable vs imutable
+2)String class
+3)String constant pool and Heap memory
+4)String methods
+->chatAt(int);
+->concat(String);
+->trim();
+->substring()
+->substring(int,int)
+->toLowerCase();
+->toUpperCase();
+->equals(String);
+->equalsIgnoreCase(String)
+->length()
+->replace(char,char)
+length vs length()
+5)Intern of String
+6)String Buffer
+7)String Builder
+8)String vs String Buffer vs String Builder
+
+
+assignment 1) : write a program which take input 
+of 10 names
+and perform both 
+1)linear  and binary search
+
+
+assignment 2) : pass 2 strings as parameter
+main->one(which takes input)->two(perform concation)->third(print) 
+
+assignment 3) : take any 5 charcters and generate possible 5 
+meaningfull words(with the help of loops)
+
+
+assignment 4) : create your own 
+1) mutable class
+2)im mutable class
+
