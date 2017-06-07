@@ -1,0 +1,10 @@
+day 8 content
+1)Inrtoduction to IDE
+2)making classes and packages.
+3)classes between diffrent packages
+4)java visual vm
+5)Intoduction to Access modifiers
+6)Test (45 min)
+
+
+assignment : write two diffrent classes in diffrent packages and access them 
