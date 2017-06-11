@@ -1,0 +1,57 @@
+name      Marks.Obtnd    Remarks
+
+priya         15        lack of practise  
+
+Ritesh       17.5       need more practise
+
+Karan Gaba   2.5         poor performance
+
+Rohit        15.5        need more practise
+
+Jaspreet     7.5         poor performance
+
+Ankit        20          good effort
+
+Paramveer     16         need more practise
+
+Mohit Bansal  Absent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
