@@ -1,0 +1,18 @@
+day 9 content
+1)introduction to access modifiers
+2)diff between access modifiers and access specifiers
+3)types of modifiers
+->private
+->public
+->protected
+->default
+->final
+->abstract
+->strictfp
+->native
+->transient
+->static
+->volatile
+->syncronized
+
+assignment : write a simple program for each modifier

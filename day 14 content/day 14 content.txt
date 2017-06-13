@@ -1,0 +1,11 @@
+day 14 content
+project discussion
+1)Interfaces 
+2)interface methods
+3)interface naming conflict
+4)marker interface
+5)abstarct class vs concrete class vs interface
+
+
+assignment write a program which implements 2 interface contain methods
+define them in class

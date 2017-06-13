@@ -1,0 +1,11 @@
+day 12 content
+1)Introduction of Exception Handling
+2)diff between exception and error
+3)Throwable sub classes
+4)types of exception
+5)checked exception vs unchecked exception
+6)need of exception
+7)introduction to try catch
+8)excecution process of try-catch
+
+assignment  write any 5 checked exceptions and explain them
