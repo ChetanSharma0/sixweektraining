@@ -1,0 +1,21 @@
+package AbstarctConcrete;
+
+public class Concerte extends AbstarctClass {
+
+	@Override
+	public void m1() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void m2() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	
+	
+
+}
