@@ -1,0 +1,22 @@
+Name                     Marks
+
+Manpreet Kaur            17.5
+
+Beena                    10
+
+IkOnakr                  0.5
+
+Kiran                    9
+ 
+Lovepreet Kaur           21
+
+Mani Kang                0
+
+Mandeep Kaur            14
+
+Nisha                   13
+
+Megha                   15
+
+Ekta                    14
+
