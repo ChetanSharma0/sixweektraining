@@ -1,0 +1,8 @@
+day 17 content
+1)Introduction to Multitasking
+2)types of multitasking
+3)ways to define thread
+4)adv of multithreading
+5)life cycle of thread
+
+assignment write program for critical section problem
