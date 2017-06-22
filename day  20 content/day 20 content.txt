@@ -1,0 +1,9 @@
+day 20 content
+1)set
+2)hashset
+3)linkedhashset
+4)queue
+5)treeset
+6)map
+7)hasmap
+8)arrays and collections
