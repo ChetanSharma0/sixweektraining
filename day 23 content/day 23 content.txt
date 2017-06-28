@@ -1,0 +1,8 @@
+day 21 content
+1)diff between awt and swing
+2)swing frame design
+3)swing components
+->button
+->textfield
+->label
+4)dialog boxex

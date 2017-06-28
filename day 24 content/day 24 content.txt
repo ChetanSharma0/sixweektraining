@@ -1,0 +1,8 @@
+day 24 content
+1)frame component using drag and drop
+2)menu bars
+3)radio button
+4)checkboxe
+5)textarea
+6)imageicon
+7)frame connectivity
