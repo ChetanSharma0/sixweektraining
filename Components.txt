@@ -1,0 +1,50 @@
+button:
+
+JButton b = new JButton("Music ");
+b.setContentAreaFilled(false);
+b.setFocusPainted(false);
+b.setBorderPainted(false);
+b.setIcon(new ImageIcon("C:\\Users\\C-PROGRAMMER\\Desktop\\projectimages\\fill.png"));
+b.setToolTipText("tool tip text");
+b.setOpaque(true);
+
+
+TextField
+
+
+JTextField t = new JTextField();
+	f.setLayout(null);
+	t.setSize(150,30);
+	t.setLocation(200,200);
+	t.setBorder(null);//erase the border line
+	t.setCaretColor(Color.blue);//cursor color
+	t.setOpaque(true);//it wiil vanis the backgound
+
+
+dispose or reset frame
+frame.dispose();
+yourclass object = new yourclass();
+object.frameobject.setVisible(true);
+
+
+
+FileChosser
+JFileChosser fc = new JFileChooser();
+int ret= fc.showOpenDialog(null);
+
+if (ret == JFileChooser.APPROVE_OPTION)
+{	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+		
