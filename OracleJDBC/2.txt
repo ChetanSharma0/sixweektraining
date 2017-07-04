@@ -1,0 +1,6 @@
+Build 151212
+
+* Many new databases created from scratch.
+* Old databases fixed.
+* Bug fixes in all the databases.
+* Obselete databases without fixes included for backup purposes.
