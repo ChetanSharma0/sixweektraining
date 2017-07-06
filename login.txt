@@ -1,0 +1,23 @@
+try
+			{
+			Class.forName("oracle.jdbc.driver.OracleDriver"); 
+			Connection con= DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","chetan","hackmyzone"); 
+	PreparedStatement ps = con.prepareStatement("select * from userinfo where Email=? and password=?");
+	ps.setString(1,u.getText());
+	ps.setString(2, pa.getText());
+	ResultSet rs = ps.executeQuery();
+	if (rs.next())
+	{
+		new Title(rs.getString(1));
+		
+	}
+	else
+	{
+		JOptionPane.showMessageDialog(null,"Invalid Username And Password");
+	}
+
+
+
+
+		}catch(Exception qw){}
+			}
